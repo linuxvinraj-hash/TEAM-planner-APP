@@ -1,0 +1,5 @@
+{
+  "name": "Team Planner",
+  "description": "The command center for Team Planner. Visualize team status, perform AI-assisted check-ins, and query historical data using Gemini.",
+  "requestFramePermissions": []
+}
