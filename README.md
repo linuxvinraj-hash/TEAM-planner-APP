@@ -3,5 +3,5 @@
 </div>
 
 
-**View THE app in AI Studio**: https://ai.studio/apps/drive/1vbPWa3INCxGWeOAlQdpMr0oKXXS_MdqY
+**app LINK**: https://ai.studio/apps/drive/1vbPWa3INCxGWeOAlQdpMr0oKXXS_MdqY?fullscreenApplet=true
 
